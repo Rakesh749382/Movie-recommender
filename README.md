@@ -1,1 +1,2 @@
-# Projects-on-data-science-and-machine-learning
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
